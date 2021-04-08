@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-US">
 
-You can use the [editor on GitHub](https://github.com/zdong5/CreativeTechSpring2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/accd-ctsp21/assets/css/style.css?v=ddbf8b97f209a5ee4b3f1066a49e09f5418a1926">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Week3 | accd-ctsp21</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Week3" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="notes for Creative Tech" />
+<meta property="og:description" content="notes for Creative Tech" />
+<link rel="canonical" href="https://nanyij-world.github.io/accd-ctsp21/" />
+<meta property="og:url" content="https://nanyij-world.github.io/accd-ctsp21/" />
+<meta property="og:site_name" content="accd-ctsp21" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Week3" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Week3","url":"https://nanyij-world.github.io/accd-ctsp21/","description":"notes for Creative Tech","name":"accd-ctsp21","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-### Markdown
+  </head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <body>
 
-```markdown
-Syntax highlighted code block
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/nanyij-world/accd-ctsp21">View on GitHub</a>
 
-# Header 1
-## Header 2
-### Header 3
+          <h1 id="project_title">accd-ctsp21</h1>
+          <h2 id="project_tagline">notes for Creative Tech</h2>
 
-- Bulleted
-- List
+          
+        </header>
+    </div>
 
-1. Numbered
-2. List
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h2 id="week3">Week3</h2>
+<p>Our final chain of evets are following this system diagram:</p>
 
-**Bold** and _Italic_ and `Code` text
+<h2 id="week2">Week2</h2>
+<p>Trials in making smaller parts work before connecting them to the chain.</p>
 
-[Link](url) and ![Image](src)
-```
+<h2 id="week1">Week1</h2>
+<p>Brainstorming on possible individual events to be connected to a larger chain of events.<br />
+<img src="/accd-ctsp21/images/brainstorm.png" alt="brainstorm" /></p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+      </section>
+    </div>
 
-### Jekyll Themes
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">accd-ctsp21 maintained by <a href="https://github.com/nanyij-world">nanyij-world</a></p>
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zdong5/CreativeTechSpring2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    
+  </body>
+</html>
