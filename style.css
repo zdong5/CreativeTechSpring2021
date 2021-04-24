@@ -55,3 +55,16 @@ blockquote{
 .item  h3{
     margin-top: 30px;
 }
+.img{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.img img{
+    border-radius: 10px;
+    max-width: 55%;
+    margin-bottom: 30px;
+}
+.img1 img{
+    max-width: 28%;
+}
